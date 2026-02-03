@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://marianneed56.github.io/aj-renovation/sitemap_index.xml
+Sitemap: https://marianned56.github.io/aj-renovation/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK
